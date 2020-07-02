@@ -1,4 +1,5 @@
 # MED-LINK v3
+This document have been translated to [Portuguese](readme-pt.md) and [English](readme-en.md).
 Pilot do pompy insulinowej Medtronic 754 Veo oraz Medtronic 722.
 Jest to wersja pilota z wyświetlaczem i polskim menu do podstawowej obsługi pompy w zakresie podawania bolusa łatwego, zatrzymania i wznowienia pracy pompy oraz odczytu z niej danych podstawowych a także historii CGM i historii bolusów. Pilot ma wbudowany moduł Bluetooth do współpracy z dedykowaną aplikacją napisaną na telefony Android.
 
